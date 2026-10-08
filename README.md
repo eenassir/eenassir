@@ -11,25 +11,22 @@
 </p>
 
 ### 💻 Terminal
-
-```bash
+ 
+<pre>
 eenassir@github:~$ whoami
-El Mehdi ENASSIRI | Software Developer
-
+El Mehdi ENASSIRI | Full Stack &amp; AI Developer
 eenassir@github:~$ cat stack.txt
-Low-Level: C, C++, 
 Frontend : React, Angular, Next.js, TypeScript, Tailwind CSS
 Backend  : Node.js, Express, Spring Boot, FastAPI
 Database : PostgreSQL, Redis, SQLite, Supabase
-DevOps   : Docker, Docker Compose, Nginx, Kubernetes, ELK, Grafana
-AI       : LLMs, LangChain, LangGraph, RAG, AI Agents, n8n
-
+DevOps   : Docker, Nginx, Kubernetes, ELK, Grafana
+AI       : LLMs, LangChain, RAG, AI Agents, n8n
 eenassir@github:~$ cat status.txt
-Profil   : Software Developer
+Role     : Full Stack Developer Intern @ Tython
 School   : 1337 Coding School (42 Network)
-
+Location : Casablanca, Morocco
+Open to  : Internships &amp; junior roles
 eenassir@github:~$ ls links/
-linkedin  portfolio  github
-
+<a href="https://linkedin.com/in/el-mehdi-enassiri-82b644375">linkedin</a>  <a href="https://el-mehdi-portfolio.vercel.app">portfolio</a>
 eenassir@github:~$ _
-```
+</pre>
