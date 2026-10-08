@@ -10,13 +10,25 @@
   </a>
 </p>
 
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 💻 Terminal
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=eenassir&show_icons=true&theme=tokyonight)
+```bash
+eenassir@github:~$ whoami
+El Mehdi ENASSIRI | Full Stack & AI Developer
+
+eenassir@github:~$ cat stack.txt
+Frontend : React, Angular, Next.js, TypeScript, Tailwind CSS
+Backend  : Node.js, Express, Spring Boot, FastAPI
+Database : PostgreSQL, Redis, SQLite, Supabase
+DevOps   : Docker, Nginx, Kubernetes, ELK, Grafana
+AI       : LLMs, LangChain, RAG, AI Agents, n8n
+
+eenassir@github:~$ cat status.txt
+Profil     : Software Developer
+School   : 1337 Coding School (42 Network)
+
+eenassir@github:~$ ls links/
+linkedin  portfolio  github
+
+eenassir@github:~$ _
+```
