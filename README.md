@@ -14,7 +14,7 @@
  
 <pre>
 eenassir@github:~$ whoami
-El Mehdi ENASSIRI | Full Stack &amp; AI Developer
+El Mehdi ENASSIRI | Software Developer
 eenassir@github:~$ cat stack.txt
 Frontend : React, Angular, Next.js, TypeScript, Tailwind CSS
 Backend  : Node.js, Express, Spring Boot, FastAPI
@@ -22,10 +22,9 @@ Database : PostgreSQL, Redis, SQLite, Supabase
 DevOps   : Docker, Nginx, Kubernetes, ELK, Grafana
 AI       : LLMs, LangChain, RAG, AI Agents, n8n
 eenassir@github:~$ cat status.txt
-Role     : Full Stack Developer Intern @ Tython
-School   : 1337 Coding School (42 Network)
-Location : Casablanca, Morocco
-Open to  : Internships &amp; junior roles
+Profil    : Software Developer
+Education : 1337 Coding School (42 Network)
+Location  : Casablanca, Morocco
 eenassir@github:~$ ls links/
 <a href="https://linkedin.com/in/el-mehdi-enassiri-82b644375">linkedin</a>  <a href="https://el-mehdi-portfolio.vercel.app">portfolio</a>
 eenassir@github:~$ _
