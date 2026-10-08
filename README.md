@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm El Mehdi 👋</h1>
-<p align="center">Full Stack & AI Developer | 1337 / 42 Network</p>
+<h1 align="center">Hi, I'm El Mehdi ENASSIRI👋</h1>
+<p align="center">Software Developer | 1337 / 42 Network</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/el-mehdi-enassiri-82b644375">
@@ -14,17 +14,18 @@
 
 ```bash
 eenassir@github:~$ whoami
-El Mehdi ENASSIRI | Full Stack & AI Developer
+El Mehdi ENASSIRI | Software Developer
 
 eenassir@github:~$ cat stack.txt
+Low-Level: C, C++, 
 Frontend : React, Angular, Next.js, TypeScript, Tailwind CSS
 Backend  : Node.js, Express, Spring Boot, FastAPI
 Database : PostgreSQL, Redis, SQLite, Supabase
-DevOps   : Docker, Nginx, Kubernetes, ELK, Grafana
-AI       : LLMs, LangChain, RAG, AI Agents, n8n
+DevOps   : Docker, Docker Compose, Nginx, Kubernetes, ELK, Grafana
+AI       : LLMs, LangChain, LangGraph, RAG, AI Agents, n8n
 
 eenassir@github:~$ cat status.txt
-Profil     : Software Developer
+Profil   : Software Developer
 School   : 1337 Coding School (42 Network)
 
 eenassir@github:~$ ls links/
